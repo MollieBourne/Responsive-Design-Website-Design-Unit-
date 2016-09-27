@@ -14,6 +14,11 @@ This weeks practicle is about responsive design and explorinjg different types o
 <sub> Figure 2 </sub>  
 ![Smashing Magazine Responsive Image](Smashing_Magazine_Responsive.jpg)  
 
+## Observations  
+-  when the page veiw id decreased the side menu bar dissapear into a menu bar at the top of the page in the style of a buger menu.   
+-  when size decreases side bars dissapear.  
+-  menu get transitions in to a drop down menu.  
+
 ## BBC Homepage 
 [link to The BBC Homepage](http://www.bbc.co.uk/)
 
@@ -25,6 +30,12 @@ This weeks practicle is about responsive design and explorinjg different types o
 <sub> Figure 2 </sub> 
 ![BBC Homepage Responsive Image](BBC_Homepage_Responsive.jpg)   
 
+## Observations  
+-  as the size get decreased the menu bar options dissapear as to how important they are.  
+-  images and news articles stack on top of each other rather than having them some in a line up and then some bellow.  
+-  
+
+
 ## EasyJet 
 [Link To EasyJet](http://www.easyjet.com/en)
 
@@ -34,7 +45,13 @@ This weeks practicle is about responsive design and explorinjg different types o
 
 ## Web Layout 
 <sub> Figure 2 </sub> 
-![SEasyJet Responsive Image](EasyJet_respnsive.jpg)    
+![SEasyJet Responsive Image](EasyJet_respnsive.jpg)  
+
+## Observations  
+-  
+-  
+-  
+
 
 ## Non Responsive Webpages 
 [Link to the worlds worst websites](http://www.webpagesthatsuck.com/)  
