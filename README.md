@@ -33,7 +33,6 @@ This weeks practicle is about responsive design and explorinjg different types o
 ## Observations  
 -  as the size get decreased the menu bar options dissapear as to how important they are.  
 -  images and news articles stack on top of each other rather than having them some in a line up and then some bellow.  
--  
 
 
 ## EasyJet 
