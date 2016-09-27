@@ -6,48 +6,38 @@ This weeks practicle is about responsive design and explorinjg different types o
 
 ## Smashing Magazine
 [Link to Smashing Magazine](https://www.smashingmagazine.com/)
->> Images From Webpages By Using Developer Tools (this is a note)
-## Desktop Layout 
-<sub> Figure 1 </sub> 
-
-## Web Layout 
-<sub> Figure 2 </sub> 
-
-## Mobile Layout 
-<sub> Figure 3 </sub> 
+>> Images From Webpages By Using Developer Tools  
+## Desktop Layout  
+<sub> Figure 1 </sub>  
+![Smashing Magazine Desktop Image](Smashing_magazine_Desktop .jpg)  
+## Web Layout  
+<sub> Figure 2 </sub>  
+![Smashing Magazine Responsive Image](Smashing_Magazine_Responsive.jpg)  
 
 ## BBC Homepage 
 [link to The BBC Homepage](http://www.bbc.co.uk/)
 
 ## Desktop Layout 
 <sub> Figure 1 </sub> 
+![BBC Homepage Desktop Image](BBC_homepage_desktop.jpg)  
 
 ## Web Layout 
 <sub> Figure 2 </sub> 
-
-## Mobile Layout 
-<sub> Figure 3 </sub> 
+![BBC Homepage Responsive Image](BBC_Homepage_Responsive.jpg)   
 
 ## EasyJet 
 [Link To EasyJet](http://www.easyjet.com/en)
 
 ## Desktop Layout 
 <sub> Figure 1 </sub> 
+![EasyJet Desktop Image](EasyJet_Desktop.jpg)  
 
 ## Web Layout 
 <sub> Figure 2 </sub> 
-
-## Mobile Layout 
-<sub> Figure 3 </sub> 
-
-
+![SEasyJet Responsive Image](EasyJet_respnsive.jpg)    
 
 ## Non Responsive Webpages 
-[Link to the worlds worst websites](http://www.webpagesthatsuck.com/)
-
-
-
-
+[Link to the worlds worst websites](http://www.webpagesthatsuck.com/)  
 
 ## Learning how to use markdown ie this is a heading 
 ## Responsive-Design-Website-Design-Unit-
